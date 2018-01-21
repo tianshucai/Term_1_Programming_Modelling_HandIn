@@ -1,12 +1,12 @@
 # BreakTheBill_FinalHandIn
-This repository compiles links to repositories I've worked on &amp; documentation of my work.
+This repository compiles links to repositories I've worked on &amp; documentation of my work. <br />
 
 **Programming**
 
-Group repository (main): https://github.com/luarsu/BreakTheBuildFINAL
-Test repo for group project: https://github.com/tianshucai/breakTheBill_tests
-Personal repo for research: https://github.com/tianshucai/myfirstrepo
-(Details of commits available in comments)
+Group repository (main): https://github.com/luarsu/BreakTheBuildFINAL <br />
+Test repo for group project: https://github.com/tianshucai/breakTheBill_tests <br />
+Personal repo for research: https://github.com/tianshucai/myfirstrepo <br />
+(Details of commits available in comments) <br />
 
 ![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/001.png)
 ![002](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/002.png)
