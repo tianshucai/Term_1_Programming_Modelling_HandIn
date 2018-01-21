@@ -1,11 +1,12 @@
 # BreakTheBill_FinalHandIn
 This repository compiles links to repositories I've worked on &amp; documentation of my work. <br />
 
-**Programming**  <br />
+**Programming**
+
 Group repository (main): https://github.com/luarsu/BreakTheBuildFINAL <br />
 Test repo for group project: https://github.com/tianshucai/breakTheBill_tests <br />
 Personal repo for research: https://github.com/tianshucai/myfirstrepo <br />
-(Details of commits available in comments) <br />  <br />
+(Details of commits available in comments) <br />
 
 ![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/001.png)
 ![002](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/002.png)
@@ -18,6 +19,10 @@ Personal repo for research: https://github.com/tianshucai/myfirstrepo <br />
 ![009](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/009.png)
 ![010](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/010.png)
 ![011](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/011.png)
+
+**Puzzle Video**
+
+![](https://img.youtube.com/vi/OFDpE38FodM/0.jpg)](https://www.youtube.com/watch?v=OFDpE38FodM)
 
 **Modelling**  <br />
 (TBC)
