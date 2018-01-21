@@ -22,7 +22,7 @@ Personal repo for research: https://github.com/tianshucai/myfirstrepo <br />
 
 **Puzzle Video**
 
-![](https://img.youtube.com/vi/OFDpE38FodM/0.jpg)](https://www.youtube.com/watch?v=OFDpE38FodM)
+[![](https://img.youtube.com/vi/OFDpE38FodM/0.jpg)](https://www.youtube.com/watch?v=OFDpE38FodM)
 
 **Modelling**  <br />
 (TBC)
