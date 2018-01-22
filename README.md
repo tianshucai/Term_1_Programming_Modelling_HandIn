@@ -19,12 +19,19 @@ Personal repo for programming research: https://github.com/tianshucai/myfirstrep
 ![009](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/009.png)
 ![010](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/010.png)
 ![011](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/011.png)
+![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/Particle001.png)
+![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/Particle002.png)
+![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/Particle003.png)
+![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/Particle004.png)
+![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/Particle005.png)
 
 **Puzzle Video**
 
-[![](https://img.youtube.com/vi/OFDpE38FodM/0.jpg)](https://www.youtube.com/watch?v=OFDpE38FodM)
+[![](https://img.youtube.com/vi/OFDpE38FodM/0.jpg)](https://www.youtube.com/watch?v=OFDpE38FodM)<br />
 
-**Modelling**  <br />
+**Modelling**
+
+
 ![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Modelling/001.png)
 ![002](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Modelling/002.png)
 ![003](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Modelling/003.png)
