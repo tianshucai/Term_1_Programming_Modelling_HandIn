@@ -1,5 +1,7 @@
 # BreakTheBill_FinalHandIn
-This repository compiles links to repositories I've worked on &amp; documentation of my work. <br />
+
+This repository compiles links to repositories I've worked on and documentation of my work. <br />
+I mainly worked on one of the puzzles in this maze running game and created a few 3D assets in the environment. <br />
 
 **Programming**
 
@@ -25,7 +27,7 @@ Personal repo for programming research: https://github.com/tianshucai/myfirstrep
 ![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/Particle004.png)
 ![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/Particle005.png)
 
-**Puzzle Video**
+**Puzzle Video (please click image to access link) **
 
 [![](https://img.youtube.com/vi/OFDpE38FodM/0.jpg)](https://www.youtube.com/watch?v=OFDpE38FodM)<br />
 
