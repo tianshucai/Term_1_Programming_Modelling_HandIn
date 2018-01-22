@@ -12,8 +12,8 @@ Personal repo for programming research: https://github.com/tianshucai/myfirstrep
 
 ![001](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/001.png)
 ![002](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/002.png)
-![003](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/003b.png)
-![004](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/004b.png)
+![003b](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/003b.png)
+![004b](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/004b.png)
 ![005](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/005.png)
 ![006](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/006.png)
 ![007](https://raw.githubusercontent.com/tianshucai/Term_1_Programming_Modelling_HandIn/master/Programming/007.png)
